@@ -34,7 +34,7 @@ namespace WindowsFormsApp1
         }
 
 
-        }
+        
 
 
     class Alumno
@@ -140,4 +140,4 @@ namespace WindowsFormsApp1
 
 
 
-}
+
