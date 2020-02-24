@@ -132,7 +132,7 @@ namespace WindowsFormsApp1
             else
                 miAlumnoNotaTexto = "Sobresaliente";
             miAlumnoStr = aluNombre.Text + " " + aluNota.Text + " " +
-            miAlumnoNotaTexto + Environment.NewLine;
+            miAlumnoNotaTexto + Environment.NewLine + " " ;
             listaAlumnos.AppendText(miAlumnoStr);
             misAlumnos.Agregar(miAlumno);
         }
